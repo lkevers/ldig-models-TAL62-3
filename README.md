@@ -1,0 +1,2 @@
+# ldig-models-TAL62-3
+Language identification models for 17 European official languages and Corsican. Data related to the article "L'identification de langue, un outil au service du corse et de l'évaluation des ressources linguistiques" ("Language identification, a tool for Corsican and language resource evaluation"), by Laurent Kevers, published in the journal TAL 62-3 on linguistic diversity in Natural Language Processing.
