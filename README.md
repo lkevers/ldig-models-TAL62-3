@@ -1,6 +1,6 @@
-# ldig-models-TAL62-3 : Language identification models for 17 European official languages and Corsican.#
+# ldig-models-TAL62-3 : Language identification models for 17 European official languages and Corsican.
 
-These data are related to the article "L'identification de langue, un outil au service du corse et de l'évaluation des ressources linguistiques" ("Language identification, a tool for Corsican and language resource evaluation"), by Laurent Kevers, published in the journal TAL 62-3 on linguistic diversity in Natural Language Processing.
+These data are related to the article "L'identification de langue, un outil au service du corse et de l'évaluation des ressources linguistiques" ("Language identification, a tool for Corsican and language resource evaluation"), by Laurent Kevers, to be published in the journal TAL 62-3 on linguistic diversity in Natural Language Processing (2022).
 
 The language identification models cannot be distributed in a ready-to-use form due to license incompatibilities (CC BY 2.0 EN, CC BY-SA 3.0 and CC BY-NC-SA 4.0).
 
@@ -9,7 +9,7 @@ We therefore provide the different data under their own licenses, as well as a s
 To proceed, you will need ldig-python3 (https://github.com/lkevers/ldig-python3), which will also be required for running the models once they are generated.
 
 
-## Data ##
+## Data
 
 Data includes sentences from Tatoeba (https://tatoeba.org/fr/downloads, CC BY 2.0) and Corsican language corpora (https://bdlc.univ-corse.fr/tal/index.php?page=res, CC BY-SA 3.0 and CC BY-NC-SA 4.0).
 
@@ -20,7 +20,7 @@ For each Corsican corpus (A Piazzetta, A Sacra Bibbia, Wikipedia), the pre-proce
 The specific licence information for each dataset is available in the subdirectory of each corpus.
 
 
-## Steps to rebuild the models ##
+## Steps to rebuild the models
 
 Five models are built in order to set up a cross validation process.
 
@@ -55,12 +55,12 @@ For each fold, one subset of the data is reserved for training, and another for 
     Models based on data restricted to 500,000 characters are generated in minutes. Those based on the entire data are much longer to build (several hours). By default, the lines that trigger the generation of these models have been commented out in the "generate_models.sh" script.
 
 
-## Using the models on TEST files ##
+## Using the models on TEST files
 
 The "test_models.sh" script can be used to run the different models on the corresponding test data.
 
     bash test_models.sh
 
-## Notice ##
+## Notice
 
 The extraction of relevant features by Ldig does not give exactly the same result at each run. Small differences in performance, up or down, could therefore be observed compared to what is described in the TAL article.
