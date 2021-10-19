@@ -1,0 +1,36 @@
+pol	nieważne .
+pol	nie rozumiem .
+pol	nie wiem .
+pol	dobre pytanie .
+pol	któż to wie ?
+pol	to za drogo !
+pol	cały dzień grałem w tenisa .
+pol	czy mówi pan po angielsku ?
+pol	uważa się , ze to ważna sprawa .
+pol	nie jesteś winien tego wypadku .
+pol	wspomniano twoje nazwisko .
+pol	pożycz mi coś do cięcia .
+pol	od dawna jest pan w osace ?
+pol	nasz ogród był zachwaszczony .
+pol	obudziła się .
+pol	jane ścięła włosy przed zawodami .
+pol	jaki jest ostateczny cel nauczania ?
+pol	jest zależny finansowo od swej żony .
+pol	mój ojciec jest nieco staromodny .
+pol	mój wujek zmarł wczoraj na raka żołądka .
+pol	pan wang jest z chin .
+pol	niestety nie zdążyłem na jego wystąpienie .
+pol	ile kosztuje przejazd z osaki do akity ?
+pol	spójrz na ten dym .
+pol	proszę , na przyszłość bardziej uważaj .
+pol	było już późno , więc wróciłem do domu .
+pol	astronomia zajmuje się gwiazdami i planetami .
+pol	z daleka wygląda to na piłkę .
+pol	nieważne , co czytasz , ale jak czytasz .
+pol	nie muszę ci się tłumaczyć z mojego postępowania .
+pol	eksport idzie marnie .
+pol	proszę załączyć świadectwo jakości .
+pol	popełniłem koszmarny błąd .
+pol	sędzia skazał go na rok pozbawienia wolności .
+pol	spociłem się pod pachami .
+pol	co się zdarzyło na tym skrzyżowaniu ?

@@ -1,0 +1,38 @@
+fin	haittaako sinua jos laitan television päälle ?
+fin	sopiiko , että laitan television päälle ?
+fin	laita televisio päälle .
+fin	älä jätä televisiota päälle !
+fin	tässä koulussa on kirjoilla useita ulkomaalaisia .
+fin	hän on aina täynnä omia asioitaan .
+fin	hänen päänsä on aina täynnä hänen omia asioitaan .
+fin	oudon näköistä naista luultiin noidaksi .
+fin	tapaammeko huomenna ?
+fin	minulla on paha olo .
+fin	kuka rikkoi ikkunan ? kerro totuus .
+fin	ilman sinun apuasi en olisi onnistunut .
+fin	arvasin hänen olevan neljäkymmentävuotias .
+fin	ostin hänelle nuken .
+fin	tuuli kaatoi puun .
+fin	ovi aukeaa painamalla tätä nappia .
+fin	hänen elämänsä oli rankkaa .
+fin	kumpi puoli on lyöntivuorossa ?
+fin	en enää kestä tätä särkynyttä sydäntäni .
+fin	hän lähti yhtäkkiä huoneesta .
+fin	hänestä tuli kuuluisa näyttelijä .
+fin	keskustelimme mitä meidän pitäisi tehdä .
+fin	turpa kiinni ja kuuntele penikka .
+fin	kuinka pian mekko on valmis ?
+fin	täten julistan olympialaiset avatuksi .
+fin	uimaan oppiminen on helppoa .
+fin	toivotaan joka tapauksessa parasta .
+fin	hän tulee hyvin toimeen työntekijöidensä kanssa .
+fin	ruuasta löytyi kolerabakteeria .
+fin	sinä olet ihminen .
+fin	kuukausi on lopuillaan .
+fin	hän käyttäytyy kuin nelson tänä iltana .
+fin	olen pers'aukinen .
+fin	rahani ovat lopussa .
+fin	kissa nukkuu sohvalla .
+fin	täällä me nousimme alaskaan lähtevään laivaan .
+fin	he nousivat lentokoneeseen .
+fin	olisi hyvä jos osaisit laulaa .

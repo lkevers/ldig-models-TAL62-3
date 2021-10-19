@@ -1,0 +1,41 @@
+fin	tatoeba : paikka , jossa huomion kiinnittäminen yksityiskohtiin on pyhää ja rankaisut ovat pikaisia .
+fin	voit etsiä tietyn sanan sisältäviä lauseita ja saada käännökset näihin lauseisiin .
+fin	uusi tatoeba - sivusto käyttää kotitekoista ”hyper” - tietokantaa ja ”tyhjästä tempaistua” hakukonetta ja se pyörii tatoebux - os - palvelimella , jossa on tatoetel cpu , joka on tehty aivan kokonaan tatoebiumista .
+fin	minulla oli tapaaminen puoli kolmelta , mutta jäin jumiin liikenteeseen enkä ehtinyt sinne ajoissa .
+fin	uusi lause on kuin pulloposti : se käännetään aikanaan toiselle kielelle .
+fin	minun ongelmani on se , että olen liian kiireinen .
+fin	nuori pari katseli auringonlaskua aallonmurtajan harjalta .
+fin	miks tässä vitun kämpässä ei ole tuplalaseja ? mä jäädyn .
+fin	he käyttivät internettiä liikaa , koska heillä oli jokin piilevä ongelma , joka sai heidät myös laiminlyömään lapsensa .
+fin	joidenkin väistämättömien olosuhteiden johdosta en voi tänä kesänä asua lomamökilläni .
+fin	minä voin tiskata tällä kertaa , koska sinä olet tiiskannut koko viime viikon .
+fin	valtion pitäisi investoida enemmän rahaa teollisuuteen .
+fin	ajatus jumalasta olisi paljon mielenkiintoisempi , jos hän olisi löytänyt ihmiset sen sijaan , että hän olisi luonut heidät .
+fin	tämä kello tarvitsee korjausta . se edistää 20 minuuttia päivässä .
+fin	useiden erehdysten yhdistelmä johti onnettomuuteen .
+fin	yksinkertaisesti sanottuna ihminen on monien solujen yhdistymä .
+fin	jos rauhaa ei voida ylläpitää kunnialla , se ei enää ole rauhaa .
+fin	hän harvoin , jos koskaan , menee vuoteeseen ennen yhtätoista .
+fin	luulen päässeeni selville , miksei tom koskaan oppinut puhumaan ranskaa kovin hyvin .
+fin	emäntämme tuli meitä vastaan toivottaen meidät tervetulleiksi .
+fin	angela merkel varttui muinoisessa saksan demokraattisessa tasavallassa .
+fin	nannalla on ollut siskooni hyvät välit jo yli viisi vuotta .
+fin	tom sanoo , että hän ei koskaan ole yrittänyt syödä koiranruokaa .
+fin	oli useampia kuin yksi , jotka närkästyivät poliitikkojen häpämättömistä veronkierroista .
+fin	liza oli epätavallisen hyvä muistamaan asiakkaiden tilaukset , mikä surullista kyllä piti hänet poissa johtoasemista .
+fin	voi , en voi laittaa päälleni punaista hamettani , koska se on pesussa .
+fin	sisarellani on pitkät koivet ja hän pitää urheilusta .
+fin	yhdysvalloissa on tavallista antaa häissä morsiamelle lahja kuten laseja tai kahvinkeitin .
+fin	magneetit päähän istutettuina ne eivät kyenneet löytämään tietään kotiin .
+fin	 " etsin erästä kaveria . " " minä olen kaveri , enkö vain ? "
+fin	tehokkaan vuorovaikutuksen opiskelu on hyvin vietettyä aikaa .
+fin	nykyään monet ihmiset elävät yli seitsemänkymppisiksi .
+fin	odotin saavani tämän työn loppuuin mutta en voinut .
+fin	nauroin niin kovaa , että melkein leukani menivät sijoiltaan .
+fin	halusin auttaa sinua , halusin ihan tosissani , mutta sitten ajattelin , että pidän enneminkin huolta omasta elämästäni .
+fin	varoitan sinua tekemästä noin enää kertaakaan tai saat sakot .
+fin	tom sanoi , että hän ei antaisi sen tapahtua uudelleen .
+fin	liisa saattoi minut ovelle ja sulki sen perässäni .
+fin	 " sinä et ole herra lima . " " en ole , olen hänen poikansa . "
+fin	nopea ajattelu esti vauriota olemasta vielä pahempi .
+fin	tärkeintä ei ole kuinka paljon luet kirjoja vaan mitä kirjoja luet .

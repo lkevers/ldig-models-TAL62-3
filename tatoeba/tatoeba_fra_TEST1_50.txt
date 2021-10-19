@@ -1,0 +1,43 @@
+fra	je ne supporte pas ce type .
+fra	ne tenez aucun compte de ce qu'il dit .
+fra	essayons quelque chose !
+fra	qu'est - ce que tu fais ?
+fra	qu'est - ce que c'est ?
+fra	joyeux anniversaire muiriel !
+fra	muiriel a 20 ans maintenant .
+fra	le mot de passe est « muiriel » .
+fra	je serai bientôt de retour .
+fra	je ne sais pas .
+fra	j'en perds mes mots .
+fra	ça ne va jamais finir .
+fra	je ne sais simplement pas quoi dire . . .
+fra	c’était un méchant lapin .
+fra	j'étais dans les montagnes .
+fra	est - ce que c'est une photo récente ?
+fra	je ne sais pas si j'ai le temps .
+fra	l'éducation dans ce monde me déçoit .
+fra	ça ne changera rien .
+fra	ça coûtera 30 € .
+fra	je gagne 100 € par jour .
+fra	c'est parce que tu ne veux pas être seul .
+fra	ça n'arrivera pas .
+fra	parfois il peut être un gars bizarre .
+fra	ne t'inquiète pas .
+fra	tu me manques .
+fra	je les appellerai demain quand je reviendrai .
+fra	tu devrais dormir .
+fra	je leur ai dit de m'envoyer un autre ticket .
+fra	tu es tellement impatiente avec moi .
+fra	je ne peux pas vivre comme ça .
+fra	je n'ai jamais aimé la biologie .
+fra	c'est malheureusement vrai .
+fra	la plupart des gens pensent que je suis fou .
+fra	non je ne le suis pas , c'est toi qui l'es !
+fra	c'est ma réplique !
+fra	il me donne des coups de pied !
+fra	est - ce que tu es sûr ?
+fra	alors il y a un problème . . .
+fra	oh , il y a un papillon !
+fra	dépêche - toi !
+fra	ça ne me surprend pas .
+fra	si je pouvais être comme ça . . .

@@ -1,0 +1,36 @@
+fin	toisitko kirjasi alas .
+fin	opiskelijoiden on tarkoitus opiskella ahkerasti .
+fin	vientiteollisuus ei voi hyvin .
+fin	hinnat tippuivat yhtäkkiä .
+fin	sinun täytyy olla idiootti !
+fin	hän meni töihin , vaikka hänellä oli flunssa .
+fin	hän satutti kätensä kaatuessaan .
+fin	totta puhuen , hänen puheensa ovat aina tylsiä .
+fin	hän heitti monta kirjettä roskiin .
+fin	hän luultavasti epäonnistuu .
+fin	tämä kaupunki on kuollut .
+fin	tämä kaupunki on tylsä .
+fin	olin täysin tietämätön tapahtuneesta .
+fin	saisinko puhelinnumerosi ?
+fin	sinun olisi parempi olla hiljaa .
+fin	hän oli jälleen poissa koulusta .
+fin	kumpikin maa aloitti rauhanneuvottelut .
+fin	hän kirjoittaa kauniita runoja .
+fin	hän maksoi sen itse .
+fin	missä voisimme soittaa ?
+fin	jaoin huoneen veljeni kanssa .
+fin	keitän sinulle teetä .
+fin	olisiko minun pitänyt pyytää lupaasi ?
+fin	tulkoon mitä tahansa , minä olen valmis .
+fin	tämä on sinulle .
+fin	ehkä hän ei muista syntymäpäivääni .
+fin	paul soitti juuri äsken .
+fin	kuten hänen isänsä , hän omistaa useita kirjoja .
+fin	olisiko sinulla hetki aikaa ?
+fin	ostin kameran kolmellakymmenellä dollarilla .
+fin	ruoka ei sopinut ihmisille eikä eläimille .
+fin	farkut on loppuunmyyty .
+fin	elokuva alkaa .
+fin	hän eli onnellisen elämän .
+fin	tunnetko ketään näistä pojista tässä huoneessa .
+fin	en pidä hänestä .

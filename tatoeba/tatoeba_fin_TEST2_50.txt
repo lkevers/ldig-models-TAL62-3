@@ -1,0 +1,41 @@
+fin	sinun täytyy vannoa , että pidät lupauksesi .
+fin	meidän suunnitelmassamme on paljon hyviä puolia .
+fin	tuo mekko sopii sinulle hyvin .
+fin	tuo mekko sopii sinulle erittäin hyvin .
+fin	olin silloin kanadassa .
+fin	siihen aikaan olin kanadassa .
+fin	katsoin pelin alusta loppuun .
+fin	en ollut koskaan aikaisemmin nähnyt pandaa .
+fin	mikä on suomen pääkaupunki ?
+fin	tuo laiva on matkalla suomeen .
+fin	me vastustamme sotaa .
+fin	rauta on kovaa .
+fin	rauta on paljon hyödyllisempää kuin kulta .
+fin	rauta on kaikista hyödyllisin metalli .
+fin	koira hyppäsi tuolin yli .
+fin	koiran turkki on niin sanotusti sen villapaita .
+fin	koirien tuominen kielletty .
+fin	koiran uskollisuus panee ihailemaan .
+fin	haluan kissan koiran sijasta .
+fin	sinun täytyy pitää koirastasi huolta .
+fin	pelkkä vilaus koirasta saa hänet pelkäämään .
+fin	annathan koiralle ruokaa joka päivä .
+fin	järven läpimitta on kolme mailia .
+fin	järvi on syvin tässä lähiseuduilla .
+fin	järvi on syvin täällä päin .
+fin	hän tyhjensi lasinsa .
+fin	hän joi lasinsa tyhjäksi .
+fin	hän hiippaili talon ympäri takaovelle .
+fin	hän kuiskasi minulle salaa .
+fin	hän selvitteli totuutta väsymättömästi .
+fin	hän kertoi hauskan jutun .
+fin	hän on luonteeltaan humoristinen tyyppi .
+fin	hän söi suihinsa koko aterian .
+fin	hän ei ole kerjäläistä kummempi .
+fin	hän lupasi minulle , että hän tulee tänne .
+fin	hän puhui kodittomien puolesta .
+fin	minun kelloni mukaan kello on nyt neljä .
+fin	tiikeri karkasi eläintarhasta .
+fin	kun katson televisiota , tulen heti uniseksi .
+fin	katselin televisiota ja nukahdin vahingossa .
+fin	laittaisitko television päälle ?
