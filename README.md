@@ -8,6 +8,7 @@ We therefore provide the different data under their own licenses, as well as a s
 
 To proceed, you will need ldig-python3 (https://github.com/lkevers/ldig-python3), which will also be required for running the models once they are generated.
 
+For more information about NLP and Corsican : https://bdlc.univ-corse.fr/tal/
 
 ## Data
 
